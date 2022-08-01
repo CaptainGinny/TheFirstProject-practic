@@ -1,1 +1,0 @@
-# TheFirstProject-practic
