@@ -23,7 +23,7 @@ body {
 
 .header-container {
     display: flex;
-    width: 1440px;
+    width: auto;
     padding-top: 104px;
     padding-left: 133px;
     padding-right: 133px;
